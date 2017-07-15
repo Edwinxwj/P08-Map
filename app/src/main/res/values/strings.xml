@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P08-Map</string>
+    <string-array name="spinner">
+        <item>Select a branch below</item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+
+</resources>
